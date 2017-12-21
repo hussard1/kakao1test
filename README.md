@@ -4,3 +4,5 @@
 밸리데이션 처리 안함.
 
 5시만에 어케 풀냐^^; 10시간 걸린듯..
+
+http://tech.kakao.com/2017/09/27/kakao-blind-recruitment-round-1/
